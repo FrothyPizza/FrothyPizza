@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @FrothyPizza
-- 👀 I’m interested in programming and Tetris
+- 👀 I’m interested in programming and Tetris (and programming Tetris)
 - 🌱 I’m currently learning HTML, CSS, JS
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me frothy.pizza@gmail.com
